@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/ncarr/nodejs-click-server/issues"
   },
-  "homepage": "https://github.com/ncarr/nodejs-click-server#readme"
+  "homepage": "https://github.com/ncarr/nodejs-click-server#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "johnny-five": "^1.0.0",
+    "raspi-io": "^9.0.0"
+  }
 }
