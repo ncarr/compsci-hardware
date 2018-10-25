@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-click-server",
+  "version": "1.0.0",
+  "description": "Example server for Node.js on Raspberry Pi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncarr/nodejs-click-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ncarr/nodejs-click-server/issues"
+  },
+  "homepage": "https://github.com/ncarr/nodejs-click-server#readme"
+}
